@@ -5,7 +5,7 @@ export const inter = Inter({
     display: 'swap',
 });
 
-export const lusitana_regular = Lusitana({ 
+export const lusitana = Lusitana({ 
     weight: ['400', '700'],
     subsets: ['latin'],
 });
